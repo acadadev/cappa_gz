@@ -1,10 +1,9 @@
-> [!IMPORTANT]
-> This package has been updated to work with ROS 2 and the modern Gazebo simulator (e.g., Ignition/Harmonic).
-> The original ROS 1 version of this package can be found at [https://github.com/altineller/cappa_gazebo](https://github.com/altineller/cappa_gazebo)
-
 **Gazebo package for simulation of robots in Göreme National Park and the Rock Sites of Cappadocia, a UNESCO World Heritage Site:** [https://en.wikipedia.org/wiki/Cappadocia](https://en.wikipedia.org/wiki/Cappadocia)
 
 ![cappadocia](img/cappadocia.png)
+
+> [!IMPORTANT]
+> The original ROS 1 version of this package can be found at [https://github.com/altineller/cappa_gazebo](https://github.com/altineller/cappa_gazebo)
 
 **Why:** 
 
