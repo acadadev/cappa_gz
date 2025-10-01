@@ -21,7 +21,7 @@ It has historical artifacts such as rock churches, underground houses, with inte
 
 **How?**
 
-Use in conjunction with `rosrider_gz` package to launch simulation world `world_cappa`
+Use in conjunction with `rosrider_gz` package to launch simulation world `world_cappa` - you also need `subt_gz` package for the husky robots description.
 
 ```
 ros2 launch rosrider_gz_bringup world_cappa.launch.py launch_rviz:=True
