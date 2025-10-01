@@ -1,0 +1,24 @@
+<?xml version='1.0'?>
+<sdf version="1.11">
+    <model name='moon_60S_30S'>
+        <pose frame=''>0 0 0 0 0 0</pose>
+        <static>1</static>
+        <link name='link'>
+        <collision name='collision'>
+            <geometry>
+                <mesh>
+                    <uri>meshes/moon_005.stl</uri>
+                </mesh>
+            </geometry>
+        </collision>
+        <visual name='visual'>
+            <cast_shadows>1</cast_shadows>
+            <geometry>
+                <mesh>
+                    <uri>meshes/moon_005.stl</uri>
+                </mesh>
+            </geometry>
+        </visual>
+        </link>
+    </model>
+</sdf>
