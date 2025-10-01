@@ -19,6 +19,14 @@ It has historical artifacts such as rock churches, underground houses, with inte
 
 ![history](img/history.png)
 
+**How?**
+
+Use in conjunction with `rosrider_gz` package to launch simulation world `world_cappa`
+
+```
+ros2 launch rosrider_gz_bringup world_cappa.launch.py launch_rviz:=True
+```
+
 **Interesting places to spawn your robot**
 
 This will place the robot in one of the highest points, where you can try to navigate to flatland without falling down.
