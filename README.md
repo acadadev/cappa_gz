@@ -32,12 +32,7 @@ ros2 launch rosrider_gz_bringup world_cappa.launch.py launch_rviz:=True
 This will place the robot in one of the highest points, where you can try to navigate to flatland without falling down.
 
 ```
-<arg name="x" default="93.03"/>
-<arg name="y" default="-58.29"/>
-<arg name="z" default="54.0"/>
-<arg name="R" default="0.0"/>
-<arg name="P" default="0.0"/>
-<arg name="Y" default="3.14"/>
+<pose>93.03 -58.29 54.0 0.0 0.0 3.14</pose>
 ```
 
 **Credits**
